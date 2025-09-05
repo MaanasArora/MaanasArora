@@ -1,8 +1,7 @@
 :wave: Hi, I am Maanas. I use software and machine learning to achieve meaningful goals.
 
-Some of my personal projects:
+Here are some of the highlights in open source work:
 
-- [pymusicbox](www.github.com/MaanasArora/pymusicbox)
-- [k-queens](www.github.com/MaanasArora/k-queens)
-- [Simple flowers classifier](https://github.com/MaanasArora/computer-vision-projects/blob/main/flowers_classifier.ipynb)
-- [mdReader](www.github.com/MaanasArora/mdReader)
+- [Keras: CTC loss](https://github.com/keras-team/keras/pull/18952)
+- [NumPy: Fast powers](https://github.com/numpy/numpy/pull/27901)
+- [NumPy: Sorting APIs (in progress)](https://github.com/numpy/numpy/pull/28516/files)
